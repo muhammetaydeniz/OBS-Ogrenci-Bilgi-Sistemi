@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="VTYSPROJEModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="VTYSPROJEEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="TBLBOLUMLER" EntityType="VTYSPROJEModel.TBLBOLUMLER" />
+    <EntitySet Name="TBLDERSLER" EntityType="VTYSPROJEModel.TBLDERSLER" />
+    <EntitySet Name="TBLDERSPROGRAMI" EntityType="VTYSPROJEModel.TBLDERSPROGRAMI" />
+    <EntitySet Name="TBLDUYURULAR" EntityType="VTYSPROJEModel.TBLDUYURULAR" />
+    <EntitySet Name="TBLNOTLAR" EntityType="VTYSPROJEModel.TBLNOTLAR" />
+    <EntitySet Name="TBLOGRENCI" EntityType="VTYSPROJEModel.TBLOGRENCI" />
+    <EntitySet Name="TBLOGRETMENLER" EntityType="VTYSPROJEModel.TBLOGRETMENLER" />
+    <AssociationSet Name="FK_TBLOGRENCI_TBLBOLUMLER" Association="VTYSPROJEModel.FK_TBLOGRENCI_TBLBOLUMLER">
+      <End Role="TBLBOLUMLER" EntitySet="TBLBOLUMLER" />
+      <End Role="TBLOGRENCI" EntitySet="TBLOGRENCI" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TBLDERSLER_TBLOGRETMENLER" Association="VTYSPROJEModel.FK_TBLDERSLER_TBLOGRETMENLER">
+      <End Role="TBLOGRETMENLER" EntitySet="TBLOGRETMENLER" />
+      <End Role="TBLDERSLER" EntitySet="TBLDERSLER" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TBLDERSPROGRAMI_TBLDERSLER" Association="VTYSPROJEModel.FK_TBLDERSPROGRAMI_TBLDERSLER">
+      <End Role="TBLDERSLER" EntitySet="TBLDERSLER" />
+      <End Role="TBLDERSPROGRAMI" EntitySet="TBLDERSPROGRAMI" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TBLNOTLAR_TBLDERSLER" Association="VTYSPROJEModel.FK_TBLNOTLAR_TBLDERSLER">
+      <End Role="TBLDERSLER" EntitySet="TBLDERSLER" />
+      <End Role="TBLNOTLAR" EntitySet="TBLNOTLAR" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TBLDERSPROGRAMI_TBLOGRENCI" Association="VTYSPROJEModel.FK_TBLDERSPROGRAMI_TBLOGRENCI">
+      <End Role="TBLOGRENCI" EntitySet="TBLOGRENCI" />
+      <End Role="TBLDERSPROGRAMI" EntitySet="TBLDERSPROGRAMI" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TBLDERSPROGRAMI_TBLOGRETMENLER" Association="VTYSPROJEModel.FK_TBLDERSPROGRAMI_TBLOGRETMENLER">
+      <End Role="TBLOGRETMENLER" EntitySet="TBLOGRETMENLER" />
+      <End Role="TBLDERSPROGRAMI" EntitySet="TBLDERSPROGRAMI" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TBLDUYURULAR_TBLOGRETMENLER" Association="VTYSPROJEModel.FK_TBLDUYURULAR_TBLOGRETMENLER">
+      <End Role="TBLOGRETMENLER" EntitySet="TBLOGRETMENLER" />
+      <End Role="TBLDUYURULAR" EntitySet="TBLDUYURULAR" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TBLNOTLAR_TBLOGRENCI" Association="VTYSPROJEModel.FK_TBLNOTLAR_TBLOGRENCI">
+      <End Role="TBLOGRENCI" EntitySet="TBLOGRENCI" />
+      <End Role="TBLNOTLAR" EntitySet="TBLNOTLAR" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TBLNOTLAR_TBLOGRETMENLER" Association="VTYSPROJEModel.FK_TBLNOTLAR_TBLOGRETMENLER">
+      <End Role="TBLOGRETMENLER" EntitySet="TBLOGRETMENLER" />
+      <End Role="TBLNOTLAR" EntitySet="TBLNOTLAR" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="TBLBOLUMLER">
+    <Key>
+      <PropertyRef Name="BolumID" />
+    </Key>
+    <Property Name="BolumID" Type="Byte" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="BolumAd" Type="String" MaxLength="25" FixedLength="false" Unicode="false" />
+    <Property Name="BolumKod" Type="String" MaxLength="6" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="TBLOGRENCI" Relationship="VTYSPROJEModel.FK_TBLOGRENCI_TBLBOLUMLER" FromRole="TBLBOLUMLER" ToRole="TBLOGRENCI" />
+  </EntityType>
+  <EntityType Name="TBLDERSLER">
+    <Key>
+      <PropertyRef Name="DersID" />
+    </Key>
+    <Property Name="DersID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DersAd" Type="String" MaxLength="25" FixedLength="false" Unicode="false" />
+    <Property Name="DersKod" Type="String" MaxLength="25" FixedLength="false" Unicode="false" />
+    <Property Name="OgretmenID" Type="Int32" />
+    <NavigationProperty Name="TBLOGRETMENLER" Relationship="VTYSPROJEModel.FK_TBLDERSLER_TBLOGRETMENLER" FromRole="TBLDERSLER" ToRole="TBLOGRETMENLER" />
+    <NavigationProperty Name="TBLDERSPROGRAMI" Relationship="VTYSPROJEModel.FK_TBLDERSPROGRAMI_TBLDERSLER" FromRole="TBLDERSLER" ToRole="TBLDERSPROGRAMI" />
+    <NavigationProperty Name="TBLNOTLAR" Relationship="VTYSPROJEModel.FK_TBLNOTLAR_TBLDERSLER" FromRole="TBLDERSLER" ToRole="TBLNOTLAR" />
+  </EntityType>
+  <EntityType Name="TBLDERSPROGRAMI">
+    <Key>
+      <PropertyRef Name="DerProgramıID" />
+    </Key>
+    <Property Name="DerProgramıID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DersID" Type="Int32" />
+    <Property Name="OgrID" Type="Int32" />
+    <Property Name="DersTarih" Type="DateTime" Precision="0" />
+    <Property Name="DersSaat" Type="Time" Precision="7" />
+    <Property Name="OgretmenID" Type="Int32" />
+    <NavigationProperty Name="TBLDERSLER" Relationship="VTYSPROJEModel.FK_TBLDERSPROGRAMI_TBLDERSLER" FromRole="TBLDERSPROGRAMI" ToRole="TBLDERSLER" />
+    <NavigationProperty Name="TBLOGRENCI" Relationship="VTYSPROJEModel.FK_TBLDERSPROGRAMI_TBLOGRENCI" FromRole="TBLDERSPROGRAMI" ToRole="TBLOGRENCI" />
+    <NavigationProperty Name="TBLOGRETMENLER" Relationship="VTYSPROJEModel.FK_TBLDERSPROGRAMI_TBLOGRETMENLER" FromRole="TBLDERSPROGRAMI" ToRole="TBLOGRETMENLER" />
+  </EntityType>
+  <EntityType Name="TBLDUYURULAR">
+    <Key>
+      <PropertyRef Name="DuyuruID" />
+    </Key>
+    <Property Name="DuyuruID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="OgretmenID" Type="Int32" />
+    <Property Name="DuyuruMetin" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="TBLOGRETMENLER" Relationship="VTYSPROJEModel.FK_TBLDUYURULAR_TBLOGRETMENLER" FromRole="TBLDUYURULAR" ToRole="TBLOGRETMENLER" />
+  </EntityType>
+  <EntityType Name="TBLNOTLAR">
+    <Key>
+      <PropertyRef Name="NotID" />
+    </Key>
+    <Property Name="NotID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DersID" Type="Int32" />
+    <Property Name="OgrID" Type="Int32" />
+    <Property Name="Vize" Type="Byte" />
+    <Property Name="Fİnal" Type="Byte" />
+    <Property Name="Ortalama" Type="Decimal" Precision="5" Scale="2" />
+    <Property Name="Durum" Type="Boolean" />
+    <Property Name="Devamsızlık" Type="Byte" />
+    <Property Name="OgretmenID" Type="Int32" />
+    <NavigationProperty Name="TBLDERSLER" Relationship="VTYSPROJEModel.FK_TBLNOTLAR_TBLDERSLER" FromRole="TBLNOTLAR" ToRole="TBLDERSLER" />
+    <NavigationProperty Name="TBLOGRENCI" Relationship="VTYSPROJEModel.FK_TBLNOTLAR_TBLOGRENCI" FromRole="TBLNOTLAR" ToRole="TBLOGRENCI" />
+    <NavigationProperty Name="TBLOGRETMENLER" Relationship="VTYSPROJEModel.FK_TBLNOTLAR_TBLOGRETMENLER" FromRole="TBLNOTLAR" ToRole="TBLOGRETMENLER" />
+  </EntityType>
+  <EntityType Name="TBLOGRENCI">
+    <Key>
+      <PropertyRef Name="OgrID" />
+    </Key>
+    <Property Name="OgrID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="OgrAd" Type="String" MaxLength="25" FixedLength="false" Unicode="false" />
+    <Property Name="OgrSoyad" Type="String" MaxLength="25" FixedLength="false" Unicode="false" />
+    <Property Name="OgrCinsiyet" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="OgrTC" Type="String" MaxLength="11" FixedLength="true" Unicode="false" />
+    <Property Name="OgrKullanıcıAdı" Type="String" MaxLength="25" FixedLength="false" Unicode="false" />
+    <Property Name="OgrSifre" Type="String" MaxLength="25" FixedLength="false" Unicode="false" />
+    <Property Name="OgrDogumTarihi" Type="DateTime" Precision="0" />
+    <Property Name="BolumID" Type="Byte" />
+    <NavigationProperty Name="TBLBOLUMLER" Relationship="VTYSPROJEModel.FK_TBLOGRENCI_TBLBOLUMLER" FromRole="TBLOGRENCI" ToRole="TBLBOLUMLER" />
+    <NavigationProperty Name="TBLDERSPROGRAMI" Relationship="VTYSPROJEModel.FK_TBLDERSPROGRAMI_TBLOGRENCI" FromRole="TBLOGRENCI" ToRole="TBLDERSPROGRAMI" />
+    <NavigationProperty Name="TBLNOTLAR" Relationship="VTYSPROJEModel.FK_TBLNOTLAR_TBLOGRENCI" FromRole="TBLOGRENCI" ToRole="TBLNOTLAR" />
+  </EntityType>
+  <EntityType Name="TBLOGRETMENLER">
+    <Key>
+      <PropertyRef Name="OgretmenID" />
+    </Key>
+    <Property Name="OgretmenID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="OgretmenAd" Type="String" MaxLength="25" FixedLength="false" Unicode="false" />
+    <Property Name="OgretmenSoyad" Type="String" MaxLength="25" FixedLength="false" Unicode="false" />
+    <Property Name="OgretmenTC" Type="String" MaxLength="11" FixedLength="true" Unicode="false" />
+    <Property Name="OgretmenSifre" Type="String" MaxLength="25" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="TBLDERSLER" Relationship="VTYSPROJEModel.FK_TBLDERSLER_TBLOGRETMENLER" FromRole="TBLOGRETMENLER" ToRole="TBLDERSLER" />
+    <NavigationProperty Name="TBLDERSPROGRAMI" Relationship="VTYSPROJEModel.FK_TBLDERSPROGRAMI_TBLOGRETMENLER" FromRole="TBLOGRETMENLER" ToRole="TBLDERSPROGRAMI" />
+    <NavigationProperty Name="TBLDUYURULAR" Relationship="VTYSPROJEModel.FK_TBLDUYURULAR_TBLOGRETMENLER" FromRole="TBLOGRETMENLER" ToRole="TBLDUYURULAR" />
+    <NavigationProperty Name="TBLNOTLAR" Relationship="VTYSPROJEModel.FK_TBLNOTLAR_TBLOGRETMENLER" FromRole="TBLOGRETMENLER" ToRole="TBLNOTLAR" />
+  </EntityType>
+  <Association Name="FK_TBLOGRENCI_TBLBOLUMLER">
+    <End Type="VTYSPROJEModel.TBLBOLUMLER" Role="TBLBOLUMLER" Multiplicity="0..1" />
+    <End Type="VTYSPROJEModel.TBLOGRENCI" Role="TBLOGRENCI" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBLBOLUMLER">
+        <PropertyRef Name="BolumID" />
+      </Principal>
+      <Dependent Role="TBLOGRENCI">
+        <PropertyRef Name="BolumID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TBLDERSLER_TBLOGRETMENLER">
+    <End Type="VTYSPROJEModel.TBLOGRETMENLER" Role="TBLOGRETMENLER" Multiplicity="0..1" />
+    <End Type="VTYSPROJEModel.TBLDERSLER" Role="TBLDERSLER" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBLOGRETMENLER">
+        <PropertyRef Name="OgretmenID" />
+      </Principal>
+      <Dependent Role="TBLDERSLER">
+        <PropertyRef Name="OgretmenID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TBLDERSPROGRAMI_TBLDERSLER">
+    <End Type="VTYSPROJEModel.TBLDERSLER" Role="TBLDERSLER" Multiplicity="0..1" />
+    <End Type="VTYSPROJEModel.TBLDERSPROGRAMI" Role="TBLDERSPROGRAMI" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBLDERSLER">
+        <PropertyRef Name="DersID" />
+      </Principal>
+      <Dependent Role="TBLDERSPROGRAMI">
+        <PropertyRef Name="DersID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TBLNOTLAR_TBLDERSLER">
+    <End Type="VTYSPROJEModel.TBLDERSLER" Role="TBLDERSLER" Multiplicity="0..1" />
+    <End Type="VTYSPROJEModel.TBLNOTLAR" Role="TBLNOTLAR" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBLDERSLER">
+        <PropertyRef Name="DersID" />
+      </Principal>
+      <Dependent Role="TBLNOTLAR">
+        <PropertyRef Name="DersID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TBLDERSPROGRAMI_TBLOGRENCI">
+    <End Type="VTYSPROJEModel.TBLOGRENCI" Role="TBLOGRENCI" Multiplicity="0..1" />
+    <End Type="VTYSPROJEModel.TBLDERSPROGRAMI" Role="TBLDERSPROGRAMI" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBLOGRENCI">
+        <PropertyRef Name="OgrID" />
+      </Principal>
+      <Dependent Role="TBLDERSPROGRAMI">
+        <PropertyRef Name="OgrID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TBLDERSPROGRAMI_TBLOGRETMENLER">
+    <End Type="VTYSPROJEModel.TBLOGRETMENLER" Role="TBLOGRETMENLER" Multiplicity="0..1" />
+    <End Type="VTYSPROJEModel.TBLDERSPROGRAMI" Role="TBLDERSPROGRAMI" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBLOGRETMENLER">
+        <PropertyRef Name="OgretmenID" />
+      </Principal>
+      <Dependent Role="TBLDERSPROGRAMI">
+        <PropertyRef Name="OgretmenID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TBLDUYURULAR_TBLOGRETMENLER">
+    <End Type="VTYSPROJEModel.TBLOGRETMENLER" Role="TBLOGRETMENLER" Multiplicity="0..1" />
+    <End Type="VTYSPROJEModel.TBLDUYURULAR" Role="TBLDUYURULAR" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBLOGRETMENLER">
+        <PropertyRef Name="OgretmenID" />
+      </Principal>
+      <Dependent Role="TBLDUYURULAR">
+        <PropertyRef Name="OgretmenID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TBLNOTLAR_TBLOGRENCI">
+    <End Type="VTYSPROJEModel.TBLOGRENCI" Role="TBLOGRENCI" Multiplicity="0..1" />
+    <End Type="VTYSPROJEModel.TBLNOTLAR" Role="TBLNOTLAR" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBLOGRENCI">
+        <PropertyRef Name="OgrID" />
+      </Principal>
+      <Dependent Role="TBLNOTLAR">
+        <PropertyRef Name="OgrID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TBLNOTLAR_TBLOGRETMENLER">
+    <End Type="VTYSPROJEModel.TBLOGRETMENLER" Role="TBLOGRETMENLER" Multiplicity="0..1" />
+    <End Type="VTYSPROJEModel.TBLNOTLAR" Role="TBLNOTLAR" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBLOGRETMENLER">
+        <PropertyRef Name="OgretmenID" />
+      </Principal>
+      <Dependent Role="TBLNOTLAR">
+        <PropertyRef Name="OgretmenID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

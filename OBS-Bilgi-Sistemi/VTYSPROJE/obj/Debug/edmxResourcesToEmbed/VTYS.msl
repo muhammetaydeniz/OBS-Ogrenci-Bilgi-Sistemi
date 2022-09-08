@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="VTYSPROJEModelStoreContainer" CdmEntityContainer="VTYSPROJEEntities">
+    <EntitySetMapping Name="TBLBOLUMLER">
+      <EntityTypeMapping TypeName="VTYSPROJEModel.TBLBOLUMLER">
+        <MappingFragment StoreEntitySet="TBLBOLUMLER">
+          <ScalarProperty Name="BolumKod" ColumnName="BolumKod" />
+          <ScalarProperty Name="BolumAd" ColumnName="BolumAd" />
+          <ScalarProperty Name="BolumID" ColumnName="BolumID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBLDERSLER">
+      <EntityTypeMapping TypeName="VTYSPROJEModel.TBLDERSLER">
+        <MappingFragment StoreEntitySet="TBLDERSLER">
+          <ScalarProperty Name="OgretmenID" ColumnName="OgretmenID" />
+          <ScalarProperty Name="DersKod" ColumnName="DersKod" />
+          <ScalarProperty Name="DersAd" ColumnName="DersAd" />
+          <ScalarProperty Name="DersID" ColumnName="DersID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBLDERSPROGRAMI">
+      <EntityTypeMapping TypeName="VTYSPROJEModel.TBLDERSPROGRAMI">
+        <MappingFragment StoreEntitySet="TBLDERSPROGRAMI">
+          <ScalarProperty Name="OgretmenID" ColumnName="OgretmenID" />
+          <ScalarProperty Name="DersSaat" ColumnName="DersSaat" />
+          <ScalarProperty Name="DersTarih" ColumnName="DersTarih" />
+          <ScalarProperty Name="OgrID" ColumnName="OgrID" />
+          <ScalarProperty Name="DersID" ColumnName="DersID" />
+          <ScalarProperty Name="DerProgramıID" ColumnName="DerProgramıID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBLDUYURULAR">
+      <EntityTypeMapping TypeName="VTYSPROJEModel.TBLDUYURULAR">
+        <MappingFragment StoreEntitySet="TBLDUYURULAR">
+          <ScalarProperty Name="DuyuruMetin" ColumnName="DuyuruMetin" />
+          <ScalarProperty Name="OgretmenID" ColumnName="OgretmenID" />
+          <ScalarProperty Name="DuyuruID" ColumnName="DuyuruID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBLNOTLAR">
+      <EntityTypeMapping TypeName="VTYSPROJEModel.TBLNOTLAR">
+        <MappingFragment StoreEntitySet="TBLNOTLAR">
+          <ScalarProperty Name="OgretmenID" ColumnName="OgretmenID" />
+          <ScalarProperty Name="Devamsızlık" ColumnName="Devamsızlık" />
+          <ScalarProperty Name="Durum" ColumnName="Durum" />
+          <ScalarProperty Name="Ortalama" ColumnName="Ortalama" />
+          <ScalarProperty Name="Fİnal" ColumnName="Fİnal" />
+          <ScalarProperty Name="Vize" ColumnName="Vize" />
+          <ScalarProperty Name="OgrID" ColumnName="OgrID" />
+          <ScalarProperty Name="DersID" ColumnName="DersID" />
+          <ScalarProperty Name="NotID" ColumnName="NotID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBLOGRENCI">
+      <EntityTypeMapping TypeName="VTYSPROJEModel.TBLOGRENCI">
+        <MappingFragment StoreEntitySet="TBLOGRENCI">
+          <ScalarProperty Name="BolumID" ColumnName="BolumID" />
+          <ScalarProperty Name="OgrDogumTarihi" ColumnName="OgrDogumTarihi" />
+          <ScalarProperty Name="OgrSifre" ColumnName="OgrSifre" />
+          <ScalarProperty Name="OgrKullanıcıAdı" ColumnName="OgrKullanıcıAdı" />
+          <ScalarProperty Name="OgrTC" ColumnName="OgrTC" />
+          <ScalarProperty Name="OgrCinsiyet" ColumnName="OgrCinsiyet" />
+          <ScalarProperty Name="OgrSoyad" ColumnName="OgrSoyad" />
+          <ScalarProperty Name="OgrAd" ColumnName="OgrAd" />
+          <ScalarProperty Name="OgrID" ColumnName="OgrID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBLOGRETMENLER">
+      <EntityTypeMapping TypeName="VTYSPROJEModel.TBLOGRETMENLER">
+        <MappingFragment StoreEntitySet="TBLOGRETMENLER">
+          <ScalarProperty Name="OgretmenSifre" ColumnName="OgretmenSifre" />
+          <ScalarProperty Name="OgretmenTC" ColumnName="OgretmenTC" />
+          <ScalarProperty Name="OgretmenSoyad" ColumnName="OgretmenSoyad" />
+          <ScalarProperty Name="OgretmenAd" ColumnName="OgretmenAd" />
+          <ScalarProperty Name="OgretmenID" ColumnName="OgretmenID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

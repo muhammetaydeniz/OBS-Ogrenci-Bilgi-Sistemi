@@ -1,0 +1,406 @@
+C:\Users\memet\Desktop\MEHMET\DERS\Teknolojiler\C#\VTYS.PROJE\VTYSPROJE\VTYSPROJE\bin\Debug\VTYSPROJE.exe.config
+C:\Users\memet\Desktop\MEHMET\DERS\Teknolojiler\C#\VTYS.PROJE\VTYSPROJE\VTYSPROJE\bin\Debug\VTYSPROJE.exe
+C:\Users\memet\Desktop\MEHMET\DERS\Teknolojiler\C#\VTYS.PROJE\VTYSPROJE\VTYSPROJE\bin\Debug\VTYSPROJE.pdb
+C:\Users\memet\Desktop\MEHMET\DERS\Teknolojiler\C#\VTYS.PROJE\VTYSPROJE\VTYSPROJE\bin\Debug\EntityFramework.dll
+C:\Users\memet\Desktop\MEHMET\DERS\Teknolojiler\C#\VTYS.PROJE\VTYSPROJE\VTYSPROJE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\memet\Desktop\MEHMET\DERS\Teknolojiler\C#\VTYS.PROJE\VTYSPROJE\VTYSPROJE\bin\Debug\EntityFramework.xml
+C:\Users\memet\Desktop\MEHMET\DERS\Teknolojiler\C#\VTYS.PROJE\VTYSPROJE\VTYSPROJE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\memet\Desktop\MEHMET\DERS\Teknolojiler\C#\VTYS.PROJE\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.csprojAssemblyReference.cache
+C:\Users\memet\Desktop\MEHMET\DERS\Teknolojiler\C#\VTYS.PROJE\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.Form1.resources
+C:\Users\memet\Desktop\MEHMET\DERS\Teknolojiler\C#\VTYS.PROJE\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.Properties.Resources.resources
+C:\Users\memet\Desktop\MEHMET\DERS\Teknolojiler\C#\VTYS.PROJE\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.csproj.GenerateResource.cache
+C:\Users\memet\Desktop\MEHMET\DERS\Teknolojiler\C#\VTYS.PROJE\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.csproj.CoreCompileInputs.cache
+C:\Users\memet\Desktop\MEHMET\DERS\Teknolojiler\C#\VTYS.PROJE\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.csproj.CopyComplete
+C:\Users\memet\Desktop\MEHMET\DERS\Teknolojiler\C#\VTYS.PROJE\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.exe
+C:\Users\memet\Desktop\MEHMET\DERS\Teknolojiler\C#\VTYS.PROJE\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.pdb
+C:\Users\memet\Desktop\MEHMET\DERS\Teknolojiler\C#\VTYS.PROJE\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FormGiriş.resources
+C:\Users\memet\Desktop\MEHMET\DERS\Teknolojiler\C#\VTYS.PROJE\VTYSPROJE\VTYSPROJE\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\memet\Desktop\MEHMET\DERS\Teknolojiler\C#\VTYS.PROJE\VTYSPROJE\VTYSPROJE\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\memet\Desktop\MEHMET\DERS\Teknolojiler\C#\VTYS.PROJE\VTYSPROJE\VTYSPROJE\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\memet\Desktop\MEHMET\DERS\Teknolojiler\C#\VTYS.PROJE\VTYSPROJE\VTYSPROJE\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\memet\Desktop\MEHMET\DERS\Teknolojiler\C#\VTYS.PROJE\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.csproj.ResolveComReference.cache
+C:\Users\memet\Desktop\MEHMET\DERS\Teknolojiler\C#\VTYS.PROJE\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmOgretmen.resources
+C:\Users\memet\Desktop\MEHMET\DERS\Teknolojiler\C#\VTYS.PROJE\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmOgretmenSınavNot.resources
+C:\Users\memet\Desktop\MEHMET\DERS\Teknolojiler\C#\VTYS.PROJE\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmOgretmenDersProgramı.resources
+C:\Users\memet\Desktop\MEHMET\DERS\Teknolojiler\C#\VTYS.PROJE\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmOgrenciDersProgramı.resources
+C:\Users\memet\Desktop\MEHMET\DERS\Teknolojiler\C#\VTYS.PROJE\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmOgretmenTakvim.resources
+C:\Users\memet\Desktop\MEHMET\DERS\Teknolojiler\C#\VTYS.PROJE\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmAdmin.resources
+C:\Users\memet\Desktop\MEHMET\DERS\Teknolojiler\C#\VTYS.PROJE\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmAdminBilgiDuzenle.resources
+C:\Users\memet\Desktop\MEHMET\DERS\Teknolojiler\C#\VTYS.PROJE\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmAdminBolumListele.resources
+C:\Users\memet\Desktop\MEHMET\DERS\Teknolojiler\C#\VTYS.PROJE\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmAdminDersListele.resources
+C:\Users\memet\Desktop\MEHMET\DERS\Teknolojiler\C#\VTYS.PROJE\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmAdminOgrenciDuzenle.resources
+C:\Users\memet\Desktop\MEHMET\DERS\Teknolojiler\C#\VTYS.PROJE\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.Formlar.Admin_Formları.FrmAdminDersProgrami.resources
+C:\Users\memet\Desktop\MEHMET\DERS\Teknolojiler\C#\VTYS.PROJE\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmAdminOgretmenDuzenle.resources
+C:\Users\memet\Desktop\MEHMET\DERS\Teknolojiler\C#\VTYS.PROJE\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmOgretmenSınavNotDuzenle.resources
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.csprojAssemblyReference.cache
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.csproj.ResolveComReference.cache
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.Form1.resources
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.Formlar.Admin_Formları.FrmAdminDersProgrami.resources
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FormGiriş.resources
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmAdmin.resources
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmAdminBilgiDuzenle.resources
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmAdminBolumListele.resources
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmAdminDersListele.resources
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmAdminOgrenciDuzenle.resources
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmAdminOgretmenDuzenle.resources
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmOgrenciDersProgramı.resources
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmOgretmen.resources
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmOgretmenDersProgramı.resources
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmOgretmenSınavNotDuzenle.resources
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmOgretmenTakvim.resources
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.Properties.Resources.resources
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.csproj.GenerateResource.cache
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.csproj.CoreCompileInputs.cache
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.exe
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.pdb
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\VTYSPROJE.exe.config
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\VTYSPROJE.exe
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\VTYSPROJE.pdb
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\EntityFramework.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\EntityFramework.xml
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.csproj.CopyComplete
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmAdminVeriTabanıDuzenle.resources
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\EnvDTE.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\stdole.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\Microsoft.MSXML.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmAdminOgrenciRaporla.resources
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\obj\Debug\RdlCompile.cache
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\obj\Debug\RdlCompile.compiled
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmOgretmenBilgiDuzenle.resources
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmOgrenciBilgiDuzenle.resources
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmOgrTakvim.resources
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmOgrenciNotListele.resources
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmAdminDuyuruDetay.resources
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmOgrenciDuyuruDetay.resources
+C:\Users\memet\Desktop\Öğrenci Sistemi\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmOgretmenDuyuruDetay.resources
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\VTYSPROJE.exe.config
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\VTYSPROJE.exe
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\VTYSPROJE.pdb
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\EntityFramework.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\EnvDTE.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\stdole.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\Microsoft.MSXML.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\EntityFramework.xml
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.csprojAssemblyReference.cache
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.csproj.ResolveComReference.cache
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.Form1.resources
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.Formlar.Admin_Formları.FrmAdminDersProgrami.resources
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FormGiriş.resources
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmAdmin.resources
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmAdminBilgiDuzenle.resources
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmAdminBolumListele.resources
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmAdminDersListele.resources
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmAdminOgrenciDuzenle.resources
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmAdminOgretmenDuzenle.resources
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmAdminVeriTabanıDuzenle.resources
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmAdminOgrenciRaporla.resources
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmOgrenciBilgiDuzenle.resources
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmOgrenciDersProgramı.resources
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmOgretmen.resources
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmOgretmenDersProgramı.resources
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmOgretmenSınavNotDuzenle.resources
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmOgretmenTakvim.resources
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmOgretmenBilgiDuzenle.resources
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmOgrTakvim.resources
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmOgrenciNotListele.resources
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmAdminDuyuruDetay.resources
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmOgrenciDuyuruDetay.resources
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmOgretmenDuyuruDetay.resources
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.Properties.Resources.resources
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.csproj.GenerateResource.cache
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\obj\Debug\RdlCompile.cache
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\obj\Debug\RdlCompile.compiled
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.csproj.CoreCompileInputs.cache
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.csproj.CopyComplete
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.exe
+C:\Users\AYDENİZ\Desktop\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.pdb
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\VTYSPROJE.exe.config
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\VTYSPROJE.exe
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\VTYSPROJE.pdb
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\EntityFramework.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\EnvDTE.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\stdole.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\Microsoft.MSXML.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\EntityFramework.xml
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.csproj.AssemblyReference.cache
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.csproj.ResolveComReference.cache
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.Form1.resources
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.Formlar.Admin_Formları.FrmAdminDersProgrami.resources
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FormGiriş.resources
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmAdmin.resources
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmAdminBilgiDuzenle.resources
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmAdminBolumListele.resources
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmAdminDersListele.resources
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmAdminOgrenciDuzenle.resources
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmAdminOgretmenDuzenle.resources
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmAdminVeriTabanıDuzenle.resources
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmAdminOgrenciRaporla.resources
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmOgrenciBilgiDuzenle.resources
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmOgrenciDersProgramı.resources
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmOgretmen.resources
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmOgretmenDersProgramı.resources
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmOgretmenSınavNotDuzenle.resources
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmOgretmenTakvim.resources
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmOgretmenBilgiDuzenle.resources
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmOgrTakvim.resources
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmOgrenciNotListele.resources
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmAdminDuyuruDetay.resources
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmOgrenciDuyuruDetay.resources
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.FrmOgretmenDuyuruDetay.resources
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.Properties.Resources.resources
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.csproj.GenerateResource.cache
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\obj\Debug\RdlCompile.cache
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\obj\Debug\RdlCompile.compiled
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.csproj.CoreCompileInputs.cache
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.csproj.CopyComplete
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.exe
+C:\Users\AYDENİZ\Desktop\c#\VTYSPROJE\VTYSPROJE\obj\Debug\VTYSPROJE.pdb

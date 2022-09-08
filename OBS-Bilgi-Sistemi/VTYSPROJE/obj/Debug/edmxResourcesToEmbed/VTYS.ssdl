@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="VTYSPROJEModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="TBLBOLUMLER">
+    <Key>
+      <PropertyRef Name="BolumID" />
+    </Key>
+    <Property Name="BolumID" Type="tinyint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="BolumAd" Type="varchar" MaxLength="25" />
+    <Property Name="BolumKod" Type="varchar" MaxLength="6" />
+  </EntityType>
+  <EntityType Name="TBLDERSLER">
+    <Key>
+      <PropertyRef Name="DersID" />
+    </Key>
+    <Property Name="DersID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DersAd" Type="varchar" MaxLength="25" />
+    <Property Name="DersKod" Type="varchar" MaxLength="25" />
+    <Property Name="OgretmenID" Type="int" />
+  </EntityType>
+  <EntityType Name="TBLDERSPROGRAMI">
+    <Key>
+      <PropertyRef Name="DerProgramıID" />
+    </Key>
+    <Property Name="DerProgramıID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DersID" Type="int" />
+    <Property Name="OgrID" Type="int" />
+    <Property Name="DersTarih" Type="date" />
+    <Property Name="DersSaat" Type="time" Precision="7" />
+    <Property Name="OgretmenID" Type="int" />
+  </EntityType>
+  <EntityType Name="TBLDUYURULAR">
+    <Key>
+      <PropertyRef Name="DuyuruID" />
+    </Key>
+    <Property Name="DuyuruID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="OgretmenID" Type="int" />
+    <Property Name="DuyuruMetin" Type="varchar" MaxLength="250" />
+  </EntityType>
+  <EntityType Name="TBLNOTLAR">
+    <Key>
+      <PropertyRef Name="NotID" />
+    </Key>
+    <Property Name="NotID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DersID" Type="int" />
+    <Property Name="OgrID" Type="int" />
+    <Property Name="Vize" Type="tinyint" />
+    <Property Name="Fİnal" Type="tinyint" />
+    <Property Name="Ortalama" Type="decimal" Precision="5" Scale="2" />
+    <Property Name="Durum" Type="bit" />
+    <Property Name="Devamsızlık" Type="tinyint" />
+    <Property Name="OgretmenID" Type="int" />
+  </EntityType>
+  <EntityType Name="TBLOGRENCI">
+    <Key>
+      <PropertyRef Name="OgrID" />
+    </Key>
+    <Property Name="OgrID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="OgrAd" Type="varchar" MaxLength="25" />
+    <Property Name="OgrSoyad" Type="varchar" MaxLength="25" />
+    <Property Name="OgrCinsiyet" Type="varchar" MaxLength="10" />
+    <Property Name="OgrTC" Type="char" MaxLength="11" />
+    <Property Name="OgrKullanıcıAdı" Type="varchar" MaxLength="25" />
+    <Property Name="OgrSifre" Type="varchar" MaxLength="25" />
+    <Property Name="OgrDogumTarihi" Type="date" />
+    <Property Name="BolumID" Type="tinyint" />
+  </EntityType>
+  <EntityType Name="TBLOGRETMENLER">
+    <Key>
+      <PropertyRef Name="OgretmenID" />
+    </Key>
+    <Property Name="OgretmenID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="OgretmenAd" Type="varchar" MaxLength="25" />
+    <Property Name="OgretmenSoyad" Type="varchar" MaxLength="25" />
+    <Property Name="OgretmenTC" Type="char" MaxLength="11" />
+    <Property Name="OgretmenSifre" Type="varchar" MaxLength="25" />
+  </EntityType>
+  <Association Name="FK_TBLDERSLER_TBLOGRETMENLER">
+    <End Role="TBLOGRETMENLER" Type="Self.TBLOGRETMENLER" Multiplicity="0..1" />
+    <End Role="TBLDERSLER" Type="Self.TBLDERSLER" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBLOGRETMENLER">
+        <PropertyRef Name="OgretmenID" />
+      </Principal>
+      <Dependent Role="TBLDERSLER">
+        <PropertyRef Name="OgretmenID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TBLDERSPROGRAMI_TBLDERSLER">
+    <End Role="TBLDERSLER" Type="Self.TBLDERSLER" Multiplicity="0..1" />
+    <End Role="TBLDERSPROGRAMI" Type="Self.TBLDERSPROGRAMI" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBLDERSLER">
+        <PropertyRef Name="DersID" />
+      </Principal>
+      <Dependent Role="TBLDERSPROGRAMI">
+        <PropertyRef Name="DersID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TBLDERSPROGRAMI_TBLOGRENCI">
+    <End Role="TBLOGRENCI" Type="Self.TBLOGRENCI" Multiplicity="0..1" />
+    <End Role="TBLDERSPROGRAMI" Type="Self.TBLDERSPROGRAMI" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBLOGRENCI">
+        <PropertyRef Name="OgrID" />
+      </Principal>
+      <Dependent Role="TBLDERSPROGRAMI">
+        <PropertyRef Name="OgrID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TBLDERSPROGRAMI_TBLOGRETMENLER">
+    <End Role="TBLOGRETMENLER" Type="Self.TBLOGRETMENLER" Multiplicity="0..1" />
+    <End Role="TBLDERSPROGRAMI" Type="Self.TBLDERSPROGRAMI" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBLOGRETMENLER">
+        <PropertyRef Name="OgretmenID" />
+      </Principal>
+      <Dependent Role="TBLDERSPROGRAMI">
+        <PropertyRef Name="OgretmenID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TBLDUYURULAR_TBLOGRETMENLER">
+    <End Role="TBLOGRETMENLER" Type="Self.TBLOGRETMENLER" Multiplicity="0..1" />
+    <End Role="TBLDUYURULAR" Type="Self.TBLDUYURULAR" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBLOGRETMENLER">
+        <PropertyRef Name="OgretmenID" />
+      </Principal>
+      <Dependent Role="TBLDUYURULAR">
+        <PropertyRef Name="OgretmenID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TBLNOTLAR_TBLDERSLER">
+    <End Role="TBLDERSLER" Type="Self.TBLDERSLER" Multiplicity="0..1" />
+    <End Role="TBLNOTLAR" Type="Self.TBLNOTLAR" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBLDERSLER">
+        <PropertyRef Name="DersID" />
+      </Principal>
+      <Dependent Role="TBLNOTLAR">
+        <PropertyRef Name="DersID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TBLNOTLAR_TBLOGRENCI">
+    <End Role="TBLOGRENCI" Type="Self.TBLOGRENCI" Multiplicity="0..1" />
+    <End Role="TBLNOTLAR" Type="Self.TBLNOTLAR" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBLOGRENCI">
+        <PropertyRef Name="OgrID" />
+      </Principal>
+      <Dependent Role="TBLNOTLAR">
+        <PropertyRef Name="OgrID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TBLNOTLAR_TBLOGRETMENLER">
+    <End Role="TBLOGRETMENLER" Type="Self.TBLOGRETMENLER" Multiplicity="0..1" />
+    <End Role="TBLNOTLAR" Type="Self.TBLNOTLAR" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBLOGRETMENLER">
+        <PropertyRef Name="OgretmenID" />
+      </Principal>
+      <Dependent Role="TBLNOTLAR">
+        <PropertyRef Name="OgretmenID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TBLOGRENCI_TBLBOLUMLER">
+    <End Role="TBLBOLUMLER" Type="Self.TBLBOLUMLER" Multiplicity="0..1" />
+    <End Role="TBLOGRENCI" Type="Self.TBLOGRENCI" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBLBOLUMLER">
+        <PropertyRef Name="BolumID" />
+      </Principal>
+      <Dependent Role="TBLOGRENCI">
+        <PropertyRef Name="BolumID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="VTYSPROJEModelStoreContainer">
+    <EntitySet Name="TBLBOLUMLER" EntityType="Self.TBLBOLUMLER" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TBLDERSLER" EntityType="Self.TBLDERSLER" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TBLDERSPROGRAMI" EntityType="Self.TBLDERSPROGRAMI" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TBLDUYURULAR" EntityType="Self.TBLDUYURULAR" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TBLNOTLAR" EntityType="Self.TBLNOTLAR" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TBLOGRENCI" EntityType="Self.TBLOGRENCI" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TBLOGRETMENLER" EntityType="Self.TBLOGRETMENLER" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_TBLDERSLER_TBLOGRETMENLER" Association="Self.FK_TBLDERSLER_TBLOGRETMENLER">
+      <End Role="TBLOGRETMENLER" EntitySet="TBLOGRETMENLER" />
+      <End Role="TBLDERSLER" EntitySet="TBLDERSLER" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TBLDERSPROGRAMI_TBLDERSLER" Association="Self.FK_TBLDERSPROGRAMI_TBLDERSLER">
+      <End Role="TBLDERSLER" EntitySet="TBLDERSLER" />
+      <End Role="TBLDERSPROGRAMI" EntitySet="TBLDERSPROGRAMI" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TBLDERSPROGRAMI_TBLOGRENCI" Association="Self.FK_TBLDERSPROGRAMI_TBLOGRENCI">
+      <End Role="TBLOGRENCI" EntitySet="TBLOGRENCI" />
+      <End Role="TBLDERSPROGRAMI" EntitySet="TBLDERSPROGRAMI" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TBLDERSPROGRAMI_TBLOGRETMENLER" Association="Self.FK_TBLDERSPROGRAMI_TBLOGRETMENLER">
+      <End Role="TBLOGRETMENLER" EntitySet="TBLOGRETMENLER" />
+      <End Role="TBLDERSPROGRAMI" EntitySet="TBLDERSPROGRAMI" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TBLDUYURULAR_TBLOGRETMENLER" Association="Self.FK_TBLDUYURULAR_TBLOGRETMENLER">
+      <End Role="TBLOGRETMENLER" EntitySet="TBLOGRETMENLER" />
+      <End Role="TBLDUYURULAR" EntitySet="TBLDUYURULAR" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TBLNOTLAR_TBLDERSLER" Association="Self.FK_TBLNOTLAR_TBLDERSLER">
+      <End Role="TBLDERSLER" EntitySet="TBLDERSLER" />
+      <End Role="TBLNOTLAR" EntitySet="TBLNOTLAR" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TBLNOTLAR_TBLOGRENCI" Association="Self.FK_TBLNOTLAR_TBLOGRENCI">
+      <End Role="TBLOGRENCI" EntitySet="TBLOGRENCI" />
+      <End Role="TBLNOTLAR" EntitySet="TBLNOTLAR" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TBLNOTLAR_TBLOGRETMENLER" Association="Self.FK_TBLNOTLAR_TBLOGRETMENLER">
+      <End Role="TBLOGRETMENLER" EntitySet="TBLOGRETMENLER" />
+      <End Role="TBLNOTLAR" EntitySet="TBLNOTLAR" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TBLOGRENCI_TBLBOLUMLER" Association="Self.FK_TBLOGRENCI_TBLBOLUMLER">
+      <End Role="TBLBOLUMLER" EntitySet="TBLBOLUMLER" />
+      <End Role="TBLOGRENCI" EntitySet="TBLOGRENCI" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
